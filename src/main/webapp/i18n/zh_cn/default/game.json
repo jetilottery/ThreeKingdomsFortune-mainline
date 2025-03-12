@@ -1,0 +1,91 @@
+{
+    "version":"5-15-2017-4:56pm-SM-zh_cn_01",
+	"audioLoader": {
+		"yes": "是",
+		"no": "否",
+		"confirm": "是否打开音乐?"
+	},
+	"title": "富甲赤壁",
+	"Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "RTPrangeStatic": "from 85.00% to 93.00%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },
+
+	"MenuCommand": {
+            "WLA":{
+                "howToPlay": "游戏规则",
+		"payTable": "赔率表",
+                "price": "投注列表",
+                "stake": "单注金额",
+                "balance": "余额"     
+            },
+            "Commercial":{
+                "howToPlay": "游戏规则",
+		"payTable": "赔率表",
+                "price": "投注列表",
+                "stake": "单注金额",
+                "balance": "余额"     
+            },
+            "audio": {
+		"on": "是",
+		"off": "否",
+		"sound": "声音"
+            }
+	},
+	"Error": {
+		},
+	"Game": {
+        "WLA": {
+            "tutorial_00": "点击左边的黄色铜牌可以获得“中奖图标”。",
+            "tutorial_01": "点击右边的绿色盾牌可以获得“你的图标”。",
+            "tutorial_02": "当“你的图标”与“中奖图标”相同时，\n即可获得奖励。",
+            "tutorial_03": "如果触发了射箭并燃烧出玉牌，有可能\n获得2倍、5倍、10倍或20倍的及时奖励。"
+        },
+        "Commercial": {
+            "tutorial_00": "点击左边的黄色铜牌可以获得“中奖图标”。",
+            "tutorial_01": "点击右边的绿色盾牌可以获得“你的图标”。",
+            "tutorial_02": "当“你的图标”与“中奖图标”相同时，\n即可获得奖励。",
+            "tutorial_03": "如果触发了射箭并燃烧出玉牌，有可能\n获得2倍、5倍、10倍或20倍的及时奖励。"
+        },  
+             "demo": "试玩 ",
+            "button_buy": "购买",
+            "button_try": "试玩",
+            "button_continue": "继续",
+            "button_move2moneyGame": "现金游戏",
+            "button_autoPlay": "全开",
+            "button_stop": "取消自动",
+            "button_playAgain":"再玩一次",
+            "button_MTMPlayAgain":"再玩一次",
+            "button_stop":"停止",
+            "wager": "单注金额",
+            "meter_wager": "单注金额: ",
+            "balance": "余额: ",
+            "wins": "奖励: ",
+            "wins_demo": "试玩奖励: ",
+            "message_nonWin": "下次好运",
+            "message_buyWin": "恭喜，你赢得了",
+            "message_tryWin": "恭喜，运气不错\n试试现金游戏吧",
+            "message_anonymousTryWin": "恭喜，你将赢得",
+            "message_close": "关闭",
+            "button_exit": "离开",
+            "session_timeout_warning_exit_button": "离开",
+            "error_button_exit": "退出",
+            "warning_button_continue": "继续",
+            "warning_button_exitGame": "退出",
+            "warning_title": "警告",
+            "error_title": "错误",
+            "win_up_to":"最高可得",
+            "tutorial_title":"玩法说明",
+            "win_up_to_mark":"!",
+            "your_number":"你的图标",
+            "luck_number":"中奖图标",            
+            "meter_division":" | ",
+            "buttonClose":"X",
+            "prizeLevel": "Prize Level",
+            "prizeValue": "Prize Value",
+            "paytableWager": "Ticket Cost: "
+	}
+}

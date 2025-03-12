@@ -1,0 +1,90 @@
+{
+    "version":"8-23-2017 2:01PM Tale of the Red Cliffs Default SM",
+	"audioLoader": {
+		"yes": "Oui",
+		"no": "Non",
+		"confirm": "Activer le son?"
+	},
+	"title": "Tale of the Red Cliffs",
+	"Paytable": {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "entre {@minRTP} % et {@maxRTP} %",
+        "RTPrangeStatic": "entre 85,00 % et 93,00 %",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme est {RTP}."
+    },
+	"MenuCommand": {
+            "WLA":{
+                "howToPlay": "Comment jouer",
+		"payTable": "Table de paiement",
+                "price": "Prix",
+                "stake": "Mise",
+                "balance": "Solde"                
+            },
+            "Commercial":{
+                "howToPlay": "Comment jouer",
+		"payTable": "Table de paiement",
+                "price": "Prix",
+                "stake": "Mise",
+                "balance": "Solde"     
+            },
+            "audio": {
+		"on": "Activé",
+		"off": "Désactivé",
+		"sound": "Son"
+            }
+	},
+	"Error": {
+		},
+	"Game": {
+            "WLA": {
+                "tutorial_00": "Appuyez sur les boucliers dorés pour faire apparaître les SYMBOLES GAGNANTS.",
+                "tutorial_01": "Appuyez sur les boucliers turquoises pour faire apparaître VOS SYMBOLES et les lots correspondants.",
+                "tutorial_02": "Lorsque VOTRE SYMBOLE est identique au SYMBOLE GAGNANT, vous gagnez le lot correspondant à VOTRE SYMBOLE.",
+                "tutorial_03": "Lorsqu'une flèche atteint VOTRE SYMBOLE et fait apparaître un multiplicateur de jade, le lot correspondant à VOTRE SYMBOLE est multiplié."
+            },
+            "Commercial": {
+                "tutorial_00": "Appuyez sur les boucliers dorés pour faire apparaître les SYMBOLES GAGNANTS.",
+                "tutorial_01": "Appuyez sur les boucliers turquoises pour faire apparaître VOS SYMBOLES et les lots correspondants.",
+                "tutorial_02": "Si VOTRE SYMBOLE est identique à un des SYMBOLES GAGNANTS, vous gagnez le lot associé à VOTRE SYMBOLE.",
+                "tutorial_03": "Lorsqu'une flèche atteint VOTRE SYMBOLE et fait apparaître un multiplicateur, votre gain est multiplié!"
+            },   
+            "demo": "ESSAYER",
+            "button_buy": "ACHETER",
+            "button_try": "ESSAYER",
+            "button_continue": "CONTINUER",
+            "button_move2moneyGame": "MODE ARGENT RÉEL",
+            "button_autoPlay": "TOUT AFFICHER",
+            "button_playAgain":"JOUER DE NOUVEAU",
+            "button_MTMPlayAgain":"ESSAYER DE NOUVEAU",
+            "button_stop":"ARRÊTER",
+            "wager": "COÛT DU BILLET",
+            "meter_wager": "Coût du billet : ",            
+            "balance": "Solde : ",
+            "wins": "Gain : ",
+            "wins_demo": "Gain fictif : ",
+            "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+            "message_buyWin": "FÉLICITATIONS!\nVous avez gagné",
+            "message_tryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+            "message_anonymousTryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+            "message_close": "OK",
+            "button_exit": "QUITTER",
+            "session_timeout_warning_exit_button": "QUITTER",
+            "error_button_exit": "QUITTER",
+            "warning_button_continue": "CONTINUER",
+            "warning_button_exitGame": "QUITTER",
+            "warning_title": "AVERTISSEMENT",
+            "error_title": "ERREUR",
+            "win_up_to":"GAGNEZ JUSQU’À",
+            "win_up_to_mark":"!",
+            "tutorial_title":"COMMENT JOUER",
+            "your_number":"VOS SYMBOLES",
+            "luck_number":"SYMBOLES GAGNANTS",
+            "meter_division":" | ",
+            "buttonClose":"X",
+			"prizeLevel": "Niveau du lot",
+            "prizeValue": "Valeur du lot",
+            "paytableWager": "Coût du billet : "
+
+	}
+}
